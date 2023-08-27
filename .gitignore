@@ -1,0 +1,7 @@
+.vscode/*
+*.o
+test
+test_terminal.cpp
+ubuntu_mono_atlas.png
+render.frag
+render.vert
